@@ -35,7 +35,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I enojoy spending time with loved ones.
 
-- :mailbox:How to reach me: cooperfeatherstone13@gmail.com
+- :mailbox:How to reach me: cooperfeatherstonellc@gmail.com
 
   ---
 
